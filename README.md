@@ -53,6 +53,10 @@ niRvana 使用 [GPL V3.0](https://github.com/michaelliunsky/niRvana-theme/blob/m
 
 # 更新日志
 
+## 20240117 v5.0beta15
+
+- **修复**：博客所有`Page`页面链接强制被重定向为“https://hostname/.html”的 BUG
+
 ## 20231022 v5.0beta14
 
 - **性能优化**：更改了 Gravatar 为更快镜像源
